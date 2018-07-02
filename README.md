@@ -1,2 +1,0 @@
-# CyApp
-Created with CodeSandbox
